@@ -11,9 +11,11 @@
   }
 
   .hero-section {
-    background-image: url("./presentation2.jpg");
+    background-image: url("./background.jpg");
     color: white;
-    object-fit: contain;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
   }
 
   .background{
